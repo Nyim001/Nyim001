@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nyim001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning java
+- 💞️ I’m looking to collaborate on anything related to programing 
 - 📫 How to reach me https://www.facebook.com/profile.php?id=100052041371461
 - 😄 Pronouns:
 - ⚡ Fun fact: ... balling 🏀
